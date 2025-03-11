@@ -1,0 +1,7 @@
+we will be installing these in command prompt
+streamlit
+pyPDF2
+pandas
+scikit-learn
+numpy
+nltk
